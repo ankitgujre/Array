@@ -9,3 +9,5 @@
     a. One Dimensional Array - single row multiple columns
 
 '''
+import array as arr  # this will import the entire array module
+from array import * # This will import all class, object, variable etc from array module. here * means all.
